@@ -8,6 +8,8 @@ def key_for_min_value(name_hash)
     elsif minimum_values > values
       minimum_values = values
       minimum_keys = keys
+    end
+  end
     
 
 end
