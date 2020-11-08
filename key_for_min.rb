@@ -5,4 +5,4 @@ def key_for_min_value(name_hash)
     if minimum_value == nil
       minimum_value = v
       minimum_key = k
-    elsif 
+    elsif minimum_value
