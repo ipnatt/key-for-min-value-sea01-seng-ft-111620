@@ -4,7 +4,7 @@ def key_for_min_value(name_hash)
   name_has.each do |keys, values|
     if minimum_values == nil
       minimum_values = values
-      mi
+      minimum_values = 
     
 
 end
