@@ -1,5 +1,6 @@
 def key_for_min_value(name_hash
-  nil_value = 
+  nil_value = nil
+  
     
 
 end
